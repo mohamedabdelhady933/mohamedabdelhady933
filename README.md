@@ -17,6 +17,6 @@
   
 <a href="https://twitter.com/Mohamed_A_R_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedabdelhady" height="30" width="40" /></a>
 
-  <a href="mailto:mabdelhady908@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://img.shields.io/static/v1?label=Gmail&message=test&color=orange)" alt="mohamedabdelhady" height="30" width="40" /></a>
+  <a href="mailto:mabdelhady908@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=Gmail&message=test&color=orange" alt="mohamedabdelhady" height="30" width="40" /></a>
   
 </p><p align="left"> <a href="https://twitter.com/Mohamed_A_R_1" target="_blank"><img src="https://img.shields.io/twitter/follow/Mohamed_A_R_1?logo=twitter&style=for-the-badge" alt="mohamedabdelhady" /></a> </p>
