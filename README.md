@@ -16,7 +16,7 @@
 
 - **I'm Mohamed Abdelhady**  :ballot_box_with_check:
 - **Cyber Security Researcher & Penetration Tester**  
-- **13 CVEs (Zero day)** 
+- **15 CVEs (Zero day)** 
 - **Perform Web & Network & Mobile Penetration Testing and Source Code Review**
 
 
